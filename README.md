@@ -114,4 +114,4 @@ The analysis aims to demonstrate that tree cover loss is not a uniform globally,
 6. Address **data gaps** by collecting or estimating missing year values for more comprehensive country coverage. -->
 
 ## Acknowledgments
-This EDA was built together with @AddUsername 🙌
+This EDA was built together with [@fergonn](https://github.com/fergonn) 🙌
