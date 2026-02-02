@@ -101,7 +101,7 @@ The analysis aims to demonstrate that tree cover loss is not a uniform globally,
 - **Database Queries**: SQL for data exploration and quality assessment.
 
 ## How to Use This Repository
-1. **Explore the Analysis**: Open two notebookes: `EDA_Deforestation_DecadesComparison.ipynb`and ... to see the complete exploratory data analysis with code, visualizations, and insights for both questions separately.
+1. **Exploratory Analysis**: Open two notebookes: `EDA_Deforestation_DecadesComparison.ipynb`and `EDA_Deforestation_Drivers.ipynb` to see the complete exploratory data analysis with code, visualizations, and insights for both questions separately.
 2. **View the Presentation**: Check `EDA_tree_cover_loss.pdf` for a concise summary of findings.
 3. **Run SQL Queries**: Execute `queries_project.sql` to explore data quality, identify missing years, and understand data inconsistencies.
 
